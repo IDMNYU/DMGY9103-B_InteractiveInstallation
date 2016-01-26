@@ -73,7 +73,7 @@ This course does presume that students will:
 
 •	[Self Assessments](SelfAssessments.md)
 
-• 	Submit [Tickets to Leave](TicketstoLeave.md) via slack, when requested
+• 	Submit [Tickets to Leave](TicketsToLeave.md) via slack, when requested
 
 •	A working copy of [Max/MSP/Jitter](https://auth.cycling74.com/purchase) for the semester
 
@@ -99,13 +99,13 @@ Your final grade will be based on a synthesis of quantitative and qualitative ru
 <dl>
 <dt>Quantitative Overview<dt>
 
-<dd> [Exercises: 30% (5% each)](Assignments.md)</dd>
+<dd> Exercises: 30% (5% each)[see assignments](Assignments.md)</dd>
 
-<dd>[Show & Tell presentations: 5%](ShowAndTell.md)</dd>
+<dd>Show & Tell presentations: 5% [see Show and Tell](ShowAndTell.md)</dd>
 
 <dd>In-class discussions (readings & roundtable feedback), critiques: 5%</dd>
 
-<dd>[Self-assessments](SelfAssessments.md) and [roundtable presentations](RoundTable.md): 5%</dd>
+<dd>Self-assessments [see Self Assessments](SelfAssessments.md) and [roundtable presentations](RoundTable.md): 5%</dd>
 
 <dd>[Project 1: Change a Space: 10%](Assignments.md)</dd>
 
