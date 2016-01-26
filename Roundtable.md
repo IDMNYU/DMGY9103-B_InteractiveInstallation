@@ -9,7 +9,7 @@ You must have 3 separate/different ideas for EACH roundtable. For each idea pres
 <ul>
 <li>Describe the concept in 3 brief sentences</li> 
 <li>Show links to 3 other similar works or influences – both technical and conceptual</li>
-<li><a href ="https://github.com/IDMNYU/DMGY9103-B_InteractiveInstallation/tree/master/storyboardTemplates " >Use the storyboard template provided</a> to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.</li>
+<li><a href ="https://github.com/IDMNYU/DMGY9103-B_InteractiveInstallation/tree/master/storyboardTemplates">Use the storyboard template provided</a> to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.</li>
 <li>What space would this use on campus?</li>
 <li>For the Final Project only: What is the interface?</li>
 </ul>
