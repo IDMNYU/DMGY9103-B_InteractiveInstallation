@@ -133,9 +133,13 @@ Performance, participation, and attendance of the student has been such that cou
 
 ###Attendance
 •	Attendance will be taken at the beginning of every class
+
 •	Critique days are mandatory. No exceptions. No tardiness.
+
 •	Contact me in advance if you will not be in class. (email is preferred)
+
 •	Unexcused absences will affect your grade
+
 •	One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
 
 ###Participation
@@ -156,13 +160,13 @@ In the first week, you will either volunteer or be assigned to 2 people from the
 
 In addition to Googling the people/projects, I encourage you to check out Eyeo’s website and Vimeo page, as well as Creative Applications site. Create a Keynote, Powerpoint or Google Drive presentation. Prepare the presentation to be 10-15 minutes TOTAL. After your presentation, upload your presentation after exporting it as a PDF. Upload the presentation PDF, titled with the Artist/Designer names, to the .....(TBD)
 
-####Deliverables
+######Deliverables
 <ul>
 <li>	10-15 minute presentation of the all of the Artists/Designers allocated for that numeral. Must be prepared, researched and practiced. </li>
 <li>	Submit your presentation as a PDF to the GoogleDrive with the Artists/Designers names as the title with the roman numeral. </li>
 </ul>
 
-####Tips for Presenting
+######Tips for Presenting
 • [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
 
 • Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
@@ -170,7 +174,7 @@ Get familiar with your display preferences!!
 
 • If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
 
-####Show & Tell Choices: 
+######Show & Tell Choices: 
 <ul>
 <li>I.	Jeffery Shaw & Myron Kruger (pioneers)</li>
 <li>II.	United Visual Artist & SOFTLab (installation)</li>
@@ -184,10 +188,12 @@ VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, f
 X.	The Explorartorium & Disney Research (Design for others)</li>
 <li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)</li>
 <li>XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) </li>
-<li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)</li></ul>
+<li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)</li>
+</ul>
 
 ###Sketchbook & Evernote/Mural.ly
 You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
+
 
 ###Self-Assessments – MidTerm and Final
 
@@ -258,17 +264,17 @@ Create an interactive installation that uses either digital or physical inputs t
 - [Hacking for Artists](http://hackingforartists.com/) - Awesome. Tons of info
 
 ###Required Readings
-	“The Poetics of Interactivity” by Margaret Morse
+“The Poetics of Interactivity” by Margaret Morse
 
-	“Responsive Environments” by Myron Krueger
+“Responsive Environments” by Myron Krueger
 
- [Transforming Mirrors by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
+[Transforming Mirrors by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
 
-	[Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
+[Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
 
-	[History of the Interface in Interactive Art by Soke Dinkla](http://www.kenfeingold.com/dinkla_history.html)
+[History of the Interface in Interactive Art by Soke Dinkla](http://www.kenfeingold.com/dinkla_history.html)
 
-	Among others to be announced
+Among others to be announced
 
 ###Technology in the Classroom
 
