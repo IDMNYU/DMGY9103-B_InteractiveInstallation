@@ -95,7 +95,7 @@ This course does presume that students will:
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics:
 
 <dl>
-#####<dt>Quantitative Overview<dt>
+<dt>Quantitative Overview<dt>
 
 <dd> Exercises: 30% (5% each)</dd>
 
