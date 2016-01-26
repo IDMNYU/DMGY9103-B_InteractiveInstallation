@@ -69,15 +69,17 @@ This course does presume that students will:
 
 ### Requirements
 
-•	Show and Tell – 1++ presentations – see below
+•	[Show and Tell](ShowAndTell.md) – 1++ presentations – see below
 
-•	Self Assessments – see below
+•	[Self Assessments](SelfAssessments.md)
 
-•	A working copy of Max/MSP/Jitter
+• 	Submit [Tickets to Leave](TicketstoLeave.md) via slack, when requested
 
-•	Download & install the cv.jit library - http://jmpelletier.com/cvjit/
+•	A working copy of [Max/MSP/Jitter](https://auth.cycling74.com/purchase) for the semester
 
-•	Download & install the jit.freenect.grad - http://jmpelletier.com/category/software/
+•	Download & install the [cv.jit library](http://jmpelletier.com/cvjit/)
+
+•	Download & install the [jit.freenect.grad](http://jmpelletier.com/category/software/)
 
 •	Gathering media and materials to make happen – videos, audio, objects, etc. This is a BYOM (bring your own media) course.
 
@@ -97,19 +99,19 @@ Your final grade will be based on a synthesis of quantitative and qualitative ru
 <dl>
 <dt>Quantitative Overview<dt>
 
-<dd> Exercises: 30% (5% each)</dd>
+<dd> [Exercises: 30% (5% each)](Assignments.md)</dd>
 
-<dd>Show & Tell presentations: 5%</dd>
+<dd>[Show & Tell presentations: 5%](ShowAndTell.md)</dd>
 
 <dd>In-class discussions (readings & roundtable feedback), critiques: 5%</dd>
 
-<dd>Self-assessments and roundtable presentations: 5%</dd>
+<dd>[Self-assessments](SelfAssessments.md) and [roundtable presentations](RoundTable.md): 5%</dd>
 
-<dd>Project 1: Change a Space: 10%</dd>
+<dd>[Project 1: Change a Space: 10%](Assignments.md)</dd>
 
-<dd> Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)</dd>
+<dd> [Project 2: Midterm: Interactive Installation 20% (5% Prototype], 15% Midterm)](MidTerm.md)</dd>
 
-<dd>Project 3: Final Project: 25% (10% Prototype, 15% Final)</dd>
+<dd>[Project 3: Final Project: 25% (10% Prototype, 15% Final)](Final.md)</dd>
 </dl>
 
 **A.	100 – 90%**	Excellent, Outstanding, Superior
@@ -154,114 +156,10 @@ It’s imperative for you to be active in class – in discussion, research, and
 	<li>I do grately appreciate an email if you are going to be late, need to leave early or absent from class.</li>
 </ul>
 
-###Show & Tell
-
-In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed.
-
-In addition to Googling the people/projects, I encourage you to check out Eyeo’s website and Vimeo page, as well as Creative Applications site. Create a Keynote, Powerpoint or Google Drive presentation. Prepare the presentation to be 10-15 minutes TOTAL. After your presentation, upload your presentation after exporting it as a PDF. Upload the presentation PDF, titled with the Artist/Designer names, to the .....(TBD)
-
-######Deliverables
-<ul>
-<li>	10-15 minute presentation of the all of the Artists/Designers allocated for that numeral. Must be prepared, researched and practiced. </li>
-<li>	Submit your presentation as a PDF to the GoogleDrive with the Artists/Designers names as the title with the roman numeral. </li>
-</ul>
-
-######Tips for Presenting
-• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
-
-• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
-Get familiar with your display preferences!!
-
-• If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
-
-######Show & Tell Choices: 
-<ul>
-<li>I.	Jeffery Shaw & Myron Kruger (pioneers)</li>
-<li>II.	United Visual Artist & SOFTLab (installation)</li>
-<li>III.	Sabrina Raaf & David Rokeby (interactive installations)</li>
-<li>IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)</li>
-<li>V.	Camille Utterback & Tangible Interaction (interactive installations)</li>
-<li>VI.	Electroland & YesYesNo (interactive installations)
-VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)</li>
-<li>VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful)</li>
-<li>IX.	Design I/O & Golan Levin (playful)
-X.	The Explorartorium & Disney Research (Design for others)</li>
-<li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)</li>
-<li>XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) </li>
-<li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)</li>
-</ul>
 
 ###Sketchbook & Evernote/Mural.ly
 You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
 
-
-###Self-Assessments – MidTerm and Final
-
-After the MidTerm Critique and on the last day of class, submit a self-assessment addressing the following. Please be professional, honest and self-reflective.
-<ol>
-<li>Critically analyze/evaluate how much time was spent on learning technique/technical versus how much time was spent developing your idea/concept and strengthening it. </li>
-<li>Critically analyze/evaluate how much time was spent on the exercises and the projects.</li>
-<li>Comment on your successes. </li>
-<li>Comment on your failures. </li>
-<li>What are your plans to combat your failures?</li>
-<li>What are your open issues?</li>
-<li>How has your knowledge towards the subject changed?</li>
-</ol>
-
-###Deliverables for the Roundtable Discussions for MidTerm and Final Projects
-
-Roundtable discussions will take place the week after the MidTerm Project and the Final Project briefs are released. These are in class discussions regarding your ideas for these projects. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
-
-In order to prepare for this presentation and to communicate your ideas to the class succinctly, the following is required for each of these roundtable presentations (MidTerm & Final).
-
-You must have 3 separate/different ideas for EACH roundtable. For each idea present the following:
-
-<ul>
-<li>Describe the concept in 3 brief sentences</li> 
-<li>Show links to 3 other similar works or influences – both technical and conceptual</li>
-<li>Use the storyboard template provided (see “Resources” folder) to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.</li>
-<li>What space would this use on campus?</li>
-<li>For the Final Project only: What is the interface?</li>
-</ul>
-
-###Deliverables for the MidTerm and the Final Projects 
-<ul>
-<li>Concept in 3-6 sentences</li>
-<li>Links to influences and similar works – both conceptual and technical</li>
-<li>Final patch(es)</li>
-<li>All media required for the final</li>
-<li>Documentation of the final projects: Video and Images showcasing interaction timeline.</li>
-<li>A folder titled “Development” with the following inside of it:</li>
-<ul>
-<li>Initial working patches and previous versions</li>
-<li>Documentation of things working: Video and Images showcasing development: circuits, working circuits, initial set-ups in space, physical items in those spaces </li>
-<li>Sketches, including initial comic book and subsequent sketches</li>
-</ul>
-</ul>
-
-###Project Descriptions
-####Change a Space
-
-Using brown roll paper as your main tool/item, transform a space. Think about how people move through the space. Create a mood or emotional by changing the architecture of the space. You may use hot glue, tacks, stapler guns, natural light, string, fishing line, tearing, scissors, etc for assemblage
-
-####Midterm – theme TBA
-Reflecting on the readings of Margaret Morse “The Poetics of Interactivity” and the David Rokeby reading “Transforming Mirrors” create an environment that responds to the viewer based on some form of input. This input should be physical or sonic. (We will cover computer vision techniques for the final). Remember the tails of Myron Krueger with his installation inputs and outputs in “Responsive Environments.” The interaction must be meaningful with the content and the output should be engaging to a group of people.
-
-####Final – theme TBA
-
-Create an interactive installation that uses either digital or physical inputs that creates an engaging experience with the viewer. Think of how the output and the input cover an area or space. What is this piece about? What topics are you exploring? What is your media?
-
-
-###Course Resources
-- [DIY custom switches](http://www.kobakant.at/DIY/?p=792)
-- [Great for forums, tutorials, documentation and everything for Max/MSP/Jitter](http://cycling74.com)
-- [Programming Interactivity by Joshua Noble – covers Processing, Arduino and hardware, amongst other things beyond the scope of this course that deal with making interactive art](http://www.amazon.com/Programming-Interactivity-Joshua-Noble/dp/144931144X/ref=sr_1_sc_1?ie=UTF8&qid=1453768057&sr=8-1-spell&keywords=programming+interactivty)
-- [Make Magazine](http://makezine.com/) - projects, articles, forums, store (shed)
-- [Physical Computing by Tom Igoe and Dan O’Sullivan](http://www.amazon.com/Physical-Computing-Sensing-Controlling-Computers/dp/159200346X) – excellent resource for Physical Computing 101
-- [Making Things Talk by Tom Igoe](http://www.amazon.com/Making-Things-Talk-Sensors-Networks/dp/1449392431/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=0CEWTEYQZGFZ0REWMVK2)– Physical computing to the next level – networks!
-- [Make: Electronics by Charles Platt](http://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/ref=sr_1_1?s=books&ie=UTF8&qid=1453846684&sr=1-1&keywords=make+electronics)
-- [Hack A Day Blog](http://hackaday.com/)  - Great blog about working projects
-- [Hacking for Artists](http://hackingforartists.com/) - Awesome. Tons of info
 
 ###Required Readings
 “The Poetics of Interactivity” by Margaret Morse
@@ -289,10 +187,12 @@ Students who believe they are eligible for course accommodations under the ADA o
 Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Moses Center for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
 
-### [Calendar](dm1133-B_Calendar.md)
+### [Calendar](Calendar.md)
 
-### [Assignments](dm1133-B_Assignments.md)
+### [Assignments](Assignments.md)
 
-### [Show and Tell](dm1133-B_ShowAndTell.md)
+### [Show and Tell](ShowAndTell.md)
 
-### [Resources](dm113-B_Resources.md)
+### [Tickets To Leave](TicketsToLeave.md)
+
+### [Resources](Resources.md)
