@@ -95,40 +95,40 @@ This course does presume that students will:
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics:
 
 <dl>
-<dt>#####Quantitative Overview<dt>
+#####<dt>Quantitative Overview<dt>
 
 <dd> Exercises: 30% (5% each)</dd>
 
 <dd>Show & Tell presentations: 5%</dd>
 
-• In-class discussions (readings & roundtable feedback), critiques: 5%
+<dd>In-class discussions (readings & roundtable feedback), critiques: 5%</dd>
 
-• Self-assessments and roundtable presentations: 5%
+<dd>Self-assessments and roundtable presentations: 5%</dd>
 
-• Project 1: Change a Space: 10%
+<dd>Project 1: Change a Space: 10%</dd>
 
-• Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)
+<dd> Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)</dd>
 
-• Project 3: Final Project: 25% (10% Prototype, 15% Final)
+<dd>Project 3: Final Project: 25% (10% Prototype, 15% Final)</dd>
+</dl>
 
-
-A.	100 – 90%	Excellent, Outstanding, Superior
+**A.	100 – 90%**	Excellent, Outstanding, Superior
 Performance, participation, attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, and pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands interactivity, has a developed and practically can create well-designed interactive installations.
 
 
-B.	89 – 80%	Very Good / Good
+**B.	89 – 80%**	Very Good / Good
 Performance, participation, and attendance of student has been good, though not of the highest level. Work demonstrates a better than average understanding of interactivity, yet not superior.
 
 
-C.	79 – 70%	Satisfactory, OK, not bad
+**C.	79 – 70%**	Satisfactory, OK, not bad
 Performance, participation, and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of interactivity. Makes an avid attempt during the workshop and completes most of the workshops. Asks some questions in class, but a greater effort can be made to understand and apply the material. More time is needed to study, make, take risks and explore. Not pressing hard enough
 
 
-D.	69 – 63%	Poor; Below Average
+**D.	69 – 63%**	Poor; Below Average
 Performance, participation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of interactivity. Minimal effort is being made on the students’ part. Problems include lack of interest, procrastination, and/or poor time management.
 
 
-F.	Below 62%	Unacceptable
+**F.	Below 62%**	Unacceptable
 Performance, participation, and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. Work submissions are missing, either in parts or completely missing.
 
 ###Attendance
@@ -147,8 +147,8 @@ It’s imperative for you to be active in class – in discussion, research, and
 	<li>CHECK YOUR NYU EMAIL. Everyone must use their NYU email address for this class and all correspondence, as outlined by the Dean of the college.  I will be emailing you throughout the semester with announcements about class, projects, grades, web links, etc.  You are required to check your email several times a week, especially before class meets.</li>
 	<li> Email me from your NYU email account ONLY (mandated by the Dean)</li>
 	<li>If you find yourself emailing me a problem or an issue that exceeds 5 sentences, you need to meet with me, in person, to discuss that topic.  Please contact me about setting up a time. I’d happily meet you in person, during office hours, before class or after class. Do not assume that it’s okay to tell me about some major issue at a deadline. Ex. 8:40am on Critique day. It’s not okay. Would you do that to your boss or client? No. It’s no acceptable here either. </li>
-	<li>o	I do greatly appreciate an email if you are going to be late, need to leave early or absent from class.</li>
-	</ul>
+	<li>I do grately appreciate an email if you are going to be late, need to leave early or absent from class.</li>
+</ul>
 
 ###Show & Tell
 
