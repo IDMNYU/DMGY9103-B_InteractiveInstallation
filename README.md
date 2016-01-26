@@ -6,7 +6,7 @@
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu**
 
-What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, throughout. Software (Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc) will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation. Students are free to explore their own ideas/concepts
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, throughout. Software (Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc) will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation. Students are free to explore their own ideas/concepts.
 
 ### Program Goals
 
@@ -37,46 +37,78 @@ Students are expected to bring ideas to explore with these techniques. The goals
 This course assumes no prior knowledge of Max/MSP and electronics. Students are welcome to incorporate other programming they are familiar with for the Projects. 
 
 This course does presume that students will:
+
 •	Be on-time and prepared for class
+
 •	Cognitively present in class
+
 •	Take notes
+
 •	Have a desire to learn
+
 •	Demonstrate curiosity
-•	Beyond basic ability to seek help independently (Googling, seek tutors, create study groups, seek office hours and TA)
+
+•	Beyond basic ability to seek help independently (Googling, seek tutors, create study groups, seek office hours and each other)
+
 •	An ability to synthesize information and ask questions
+
 •	Give feedback to others in class. Participate in class discussions
+
 •	Have desire to learn and grow
+
 •	Can learn independently
+
 •	Be willing to try new things
+
 •	Be willing to fail and learn from your mistakes (Rise up!)
+
 •	Take responsibility. No whining.
+
 •	Be respectful of others. Help others in their ideas.
+
 
 ### Requirements
 
 •	Show and Tell – 1++ presentations – see below
+
 •	Self Assessments – see below
+
 •	A working copy of Max/MSP/Jitter
+
 •	Download & install the cv.jit library - http://jmpelletier.com/cvjit/
+
 •	Download & install the jit.freenect.grad - http://jmpelletier.com/category/software/
+
 •	Gathering media and materials to make happen – videos, audio, objects, etc. This is a BYOM (bring your own media) course.
-•	Physical notebook or sketch book, 
+
+•	Physical notebook or sketch book
+
 •	An Evernote or Mural.ly notebook or space just for this class
+
 •	Fresh Batteries
+
 •	Staple guns, string, tacks, hot glue guns, fishing line, etc
+
 
 ### Grading
 
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics:
 
-####Quantitative Overview
+<dl>
+<dt>#####Quantitative Overview<dt>
 
-• Exercises: 30% (5% each)
-• Show & Tell presentations: 5%
+<dd> Exercises: 30% (5% each)</dd>
+
+<dd>Show & Tell presentations: 5%</dd>
+
 • In-class discussions (readings & roundtable feedback), critiques: 5%
+
 • Self-assessments and roundtable presentations: 5%
+
 • Project 1: Change a Space: 10%
+
 • Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)
+
 • Project 3: Final Project: 25% (10% Prototype, 15% Final)
 
 
