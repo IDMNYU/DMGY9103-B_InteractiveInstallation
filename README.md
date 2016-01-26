@@ -99,19 +99,19 @@ Your final grade will be based on a synthesis of quantitative and qualitative ru
 <dl>
 <dt>Quantitative Overview<dt>
 
-<dd> Exercises: 30% (5% each)[see assignments](Assignments.md)</dd>
+<dd> Exercises: 30% (5% each)</dd>
 
-<dd>Show & Tell presentations: 5% [see Show and Tell](ShowAndTell.md)</dd>
+<dd>Show & Tell presentations: 5% </dd>
 
 <dd>In-class discussions (readings & roundtable feedback), critiques: 5%</dd>
 
-<dd>Self-assessments [see Self Assessments](SelfAssessments.md) and [roundtable presentations](RoundTable.md): 5%</dd>
+<dd>Self-assessments and roundtable presentations: 5%</dd>
 
-<dd>[Project 1: Change a Space: 10%](Assignments.md)</dd>
+<dd>Project 1: Change a Space: 10%</dd>
 
-<dd> [Project 2: Midterm: Interactive Installation 20% (5% Prototype], 15% Midterm)](MidTerm.md)</dd>
+<dd>Project 2: Midterm: Interactive Installation 20% (5% Prototype], 15% Midterm)</dd>
 
-<dd>[Project 3: Final Project: 25% (10% Prototype, 15% Final)](Final.md)</dd>
+<dd>Project 3: Final Project: 25% (10% Prototype, 15% Final)</dd>
 </dl>
 
 **A.	100 – 90%**	Excellent, Outstanding, Superior
