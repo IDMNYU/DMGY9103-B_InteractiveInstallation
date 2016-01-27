@@ -1,4 +1,7 @@
-###Course Resources ofr Interactive Installation
+##Course Resources for Interactive Installation
+
+###General
+
 - [DIY custom switches](http://www.kobakant.at/DIY/?p=792)
 
 - [Great for forums, tutorials, documentation and everything for Max/MSP/Jitter](http://cycling74.com)
@@ -16,3 +19,34 @@
 - [Hack A Day Blog](http://hackaday.com/)  - Great blog about working projects
 
 - [Hacking for Artists](http://hackingforartists.com/) - Awesome. Tons of info
+
+###Weekly Workshops or Class Material
+
+######Week 1
+
+######Week 2
+
+######Week 3
+
+######Week 4
+
+######Week 5
+
+######Week 6
+
+######Week 7
+
+######Week 8
+
+######Week 9
+
+######Week 10
+
+######Week 11
+
+######Week 12
+
+######Week 13
+
+######Week 14
+

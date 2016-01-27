@@ -4,7 +4,7 @@
 * **Thursdays 7:00 – 9:50pm**
 * **2 MetroTech Room 817**
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu**
+* **Email: Katherine.Bennett@nyu.edu**
 
 What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, throughout. Software (Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc) will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation. Students are free to explore their own ideas/concepts.
 
