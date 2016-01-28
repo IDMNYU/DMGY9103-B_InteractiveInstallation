@@ -91,6 +91,7 @@ This course does presume that students will:
 
 •	possibly a kinect
 
+•	Go through the Craft Room Induction
 
 ### Grading
 

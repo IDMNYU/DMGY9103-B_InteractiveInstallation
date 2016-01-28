@@ -3,6 +3,7 @@
 ###Week 1 Jan 28th: Hello + Space
 #####InClass
 Hello, intros, Project 1 Launch
+Sign up for Show & Tells
 
 #####Homework
 Work on Project 1
@@ -18,6 +19,7 @@ SOFTLab
 #####Homework 
 Work on Project 1
 Document Project 1
+Schedule your Craft Room Induction
 
 
 
