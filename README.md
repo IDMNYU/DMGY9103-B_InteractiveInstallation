@@ -87,9 +87,9 @@ This course does presume that students will:
 
 •	An Evernote or Mural.ly notebook or space just for this class
 
-•	Fresh Batteries
+•	Fresh Batteries, LED's & materials for DIY Switch exercise
 
-•	Staple guns, string, tacks, hot glue guns, fishing line, etc
+•	possibly a kinect
 
 
 ### Grading
