@@ -23,6 +23,13 @@
 ###Weekly Workshops or Class Material
 
 ######Week 1
+[Jee Young Lee](http://www.demilked.com/jee-young-lee-surreal-photography-studio-room/)
+[Christo & Jeanne-Claude](http://christojeanneclaude.net/)
+[Zimoun](http://www.zimoun.net/)
+[Brian Knep](http://www.blep.com/)
+[Red Paper Heart](http://www.redpaperheart.com/)
+[Nathaniel Stern](http://nathanielstern.com/)
+[Char Davies](http://www.immersence.com/)
 
 ######Week 2
 
