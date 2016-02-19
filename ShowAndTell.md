@@ -23,14 +23,14 @@ Get familiar with your display preferences!!
 <li>I.	Jeffery Shaw & Myron Kruger (pioneers)</li>
 <li>II.	United Visual Artist & SOFTLab (installation)</li>
 <li>III.	Sabrina Raaf & David Rokeby (interactive installations)</li>
-<li>IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)</li>
-<li>V.	Camille Utterback & Tangible Interaction (interactive installations)</li>
-<li>VI.	Electroland & YesYesNo (interactive installations)
-VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)</li>
-<li>VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful)</li>
-<li>IX.	Design I/O & Golan Levin (playful)
-X.	The Explorartorium & Disney Research (Design for others)</li>
-<li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)</li>
+<li>IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) - Arif </li>
+<li>V.	Camille Utterback & Tangible Interaction (interactive installations) - Ryan</li>
+<li>VI.	Electroland & YesYesNo (interactive installations) - Mahe </li>
+<li> VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) - Siccong</li>
+<li>VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful) - Carlos</li>
+<li>IX.	Design I/O & Golan Levin (playful) - LaJune</li>
+<li>X.	The Explorartorium & Disney Research (Design for others) - Melody</li>
+<li>XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems) - Mattie </li>
 <li>XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) </li>
 <li>XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)</li>
 </ul>
