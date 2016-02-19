@@ -43,12 +43,13 @@ Document Project 1. Send me the documentation
 ###Week 4 Feb 18th: 
 #####InClass
 ###### Show & Tell
-III: Sabrina Raaf & David Rokeby 
+ 
 IV: Rafael Lozano-Hemmer & Nils Voelker
 
 ###### Workshop 
 Max/MSP Intro II
 bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
+In-class Challenge: Exercise 2
 
 #####Homework 
 Read Transforming Mirrors” by David Rokeby 
@@ -57,7 +58,9 @@ Read and work through Max Tutorials: 8; MSP Tutorials: 1-2, 14, 16
 
 Exercise 2: Max Challenge II - Create a Max patch that prints out the numbers 1 to 100 (inclusive). If the number is divisible by 3, printCrackle instead of the number. If it's divisible by 5, print Pop. If it's divisible by both 3 and 5, printCracklePop. 
 
-Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling)
+Exercise 3: Create a max patch that is a sound sampler. See the patch and directives emailed to you. Automate this performance. It should be no longer than 1 minute. Use no more than 2-3 sounds. Play with pitch, duration and loops. You should just be able to press "go" and the piece plays.
+
+Ideas to consider: custom buttons, presets, select object, etc
 
 
 
@@ -67,21 +70,19 @@ MSP - Sound! - sfplay, groove, buffer, line, timing
 Dicussion of Transforming Mirrors
 
 ###### Show & Tell
+IV: Rafael Lozano-Hemmer & Nils Voelker
 V: Camille Utterback & Tangible Interaction 
 VI: Electroland & YesYesNo
 
 #####Homework
-Exercise 3: Create a patch in Max/MSP that plays a sound. Do not just cut and paste the help files together, but create a patch that is unique. Thinking about what you are controlling and how you are controlling it. Have fun. Take risks. Explore. 
-
-Ideas to consider: custom buttons, presets, select object, etc
+Exercise 4: Revise Exercise 3 to have a different control structure. This does not have to be automated. Add more sophisticated control structures (random, time, etc), abstractions, sub-patchers and mini-patch portals. Feel free to add more sounds. Check out sfplay and different input controls for the keyboard and mouse.  
 
 Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling)
 
 
-
 ###Week 6 March 3rd: 
 #####InClass
-Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patch portals, random, change, timing, input (mouse, keyboard)
+Jitter Intro - basics, iter, 3m, rota, op, brocosa
 
 Project 2 released: Operating, changing media – time or reactive. What would we see and experience?
 
@@ -90,7 +91,9 @@ VII: Deep Local & Niklas Roy
 VIII: Daily tous les Jours (Mouna Andraos) & Random International
 
 #####Homework
-Exercise 4: Re-work exercise 2 & 3, building off of them to create a patch by adding more sophisticated control structures (random, time, etc), abstractions and sub-patchers.
+Read and Work through Jitter Tutorials: 1 – 15, 21
+
+Exercise 6: Create a Max patch that modulates video based on some system – whether mathematically or user input.
 
 Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling)
 
@@ -106,7 +109,6 @@ X: The Explorartorium & Disney Research
 #####Homework 
 Exercise 5: Finish your switch + Use it to control a Max patch one of your submitted exercises or make a new one. Document the circuit with detailed images of the circuit and document the interaction (both input and output). 
 
-Read and Work through Jitter Tutorials: 1 – 15, 21
 Acquire a Kinect
 
 
@@ -117,17 +119,15 @@ Acquire a Kinect
 
 ###Week 9 March 24th: 
 #####InClass
-Jitter
+TBA
 Studio time
 
 ###### Show & Tell
 XI: eCloud, Julius Popp, Jim Campbell  
 
-###### Workshop
-Max/MSP & Jitter – basics, iter, 3m, rota, op, brocosa
 
 #####Homework
-Exercise 6: Create a Max patch that modulates video based on some system – whether mathematically or user input.
+TBA
 
 Acquire a Kinect
 
