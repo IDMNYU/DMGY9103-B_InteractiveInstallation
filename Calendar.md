@@ -3,7 +3,9 @@
 ###Week 1 Jan 28th: Hello + Space
 #####InClass
 Hello, intros, Project 1 Launch
+
 Sign up for Show & Tells
+
 
 #####Homework
 Work on Project 1
@@ -18,7 +20,9 @@ SOFTLab
 
 #####Homework 
 Work on Project 1
+
 Document Project 1
+
 Schedule your Craft Room Induction
 
 
@@ -28,28 +32,33 @@ Schedule your Craft Room Induction
 **Project 1 Crit**
 
 ###### Show & Tell
-I: Jeffery Shaw & Myron Kruger 
-II: United Visual Artist &
+I: Jeffery Shaw & Myron Kruger
+
+II: United Visual Artist
+
 ###### Workshop 
 Max/MSP Intro
 
 #####Homework
 Read through Max Tutorials 1-6
+
 Exercise 1: Max Challenge I
+
 Document Project 1. Send me the documentation
+
 
 
 
 ###Week 4 Feb 18th: 
 #####InClass
-###### Show & Tell
- 
-IV: Rafael Lozano-Hemmer & Nils Voelker
 
 ###### Workshop 
 Max/MSP Intro II
+
 bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
+
 In-class Challenge: Exercise 2
+
 
 #####Homework 
 Read Transforming Mirrors” by David Rokeby 
@@ -67,12 +76,16 @@ Ideas to consider: custom buttons, presets, select object, etc
 ###Week 5 Feb 25th:
 #####InClass 
 MSP - Sound! - sfplay, groove, buffer, line, timing
+
 Dicussion of Transforming Mirrors
 
 ###### Show & Tell
 IV: Rafael Lozano-Hemmer & Nils Voelker
+
 V: Camille Utterback & Tangible Interaction 
+
 VI: Electroland & YesYesNo
+
 
 #####Homework
 Exercise 4: Revise Exercise 3 to have a different control structure. This does not have to be automated. Add more sophisticated control structures (random, time, etc), abstractions, sub-patchers and mini-patch portals. Feel free to add more sounds. Check out sfplay and different input controls for the keyboard and mouse.  
