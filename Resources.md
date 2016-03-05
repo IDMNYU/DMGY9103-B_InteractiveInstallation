@@ -30,11 +30,11 @@
 
 2. LEDS
 
-*(5 minimum) LED's - T1 3/4, 5MM - What ever colors you want. See [Adafruit](https://www.adafruit.com), [Jameco](http://www.jameco.com/), [Sparkfun](https://www.sparkfun.com/), [All Electronics](http://www.allelectronics.com/)
+	(5 minimum) LED's - T1 3/4, 5MM - What ever colors you want. See [Adafruit](https://www.adafruit.com), [Jameco](http://www.jameco.com/), [Sparkfun](https://www.sparkfun.com/), [All Electronics](http://www.allelectronics.com/)
 
-OR
+	-OR-
 
- *(5 minimum) [sewable LED's](https://www.adafruit.com/products/1758) Search for your desired colors. These are good for soft circuits only. 
+ 	(5 minimum) [sewable LED's](https://www.adafruit.com/products/1758) Search for your desired colors. These are good for soft circuits only. 
 
 3. Batteries:
 
