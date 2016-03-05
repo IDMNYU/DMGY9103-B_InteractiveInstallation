@@ -108,7 +108,7 @@ Read and Work through Jitter Tutorials: 1 – 10
 
 Exercise 6: Create a Max patch that manipulates the color in a video or an image. Make this change over time, whether mathematically or based on user input. Look at tutorials 1-7 in Jitter
 
-Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling). See the links in the resources page!
+Acquire materials to make switches: LED's, batteries, clip leads, conductive materials + random bits of things (cardboard, paper, balloons, recycling). See the links in the resources page!
 
 
 
