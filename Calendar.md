@@ -104,11 +104,11 @@ VII: Deep Local & Niklas Roy
 VIII: Daily tous les Jours (Mouna Andraos) & Random International
 
 #####Homework
-Read and Work through Jitter Tutorials: 1 – 15, 21
+Read and Work through Jitter Tutorials: 1 – 10
 
-Exercise 6: Create a Max patch that modulates video based on some system – whether mathematically or user input.
+Exercise 6: Create a Max patch that manipulates the color in a video or an image. Make this change over time, whether mathematically or based on user input. Look at tutorials 1-7 in Jitter
 
-Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling)
+Acquire materials to make switches: LED's, CR2032, random bits of things (cardboard, paper, balloons, recycling). See the links in the resources page!
 
 
 
@@ -120,6 +120,8 @@ IX: Design I/O & Golan Levin
 X: The Explorartorium & Disney Research
 
 #####Homework 
+Read and Work through Jitter Tutorials: 11 – 15, 21
+
 Exercise 5: Finish your switch + Use it to control a Max patch one of your submitted exercises or make a new one. Document the circuit with detailed images of the circuit and document the interaction (both input and output). 
 
 Acquire a Kinect
