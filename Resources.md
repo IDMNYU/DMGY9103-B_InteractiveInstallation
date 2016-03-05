@@ -22,29 +22,33 @@
 
 ###Weekly Workshops or Class Material
 
-####Must haves 
+
+
+####Must haves for Switch Workshop
 
 1. [a bundle of aligator clip leads 12"](https://www.adafruit.com/products/1008) ++ is good. 
 
-2a. (5 minimum) LED's - T1 3/4, 5MM - What ever colors you want. See [Adafruit](https://www.adafruit.com), [Jameco](http://www.jameco.com/), [Sparkfun](https://www.sparkfun.com/), [All Electronics](http://www.allelectronics.com/)
+2. LEDS
+
+*(5 minimum) LED's - T1 3/4, 5MM - What ever colors you want. See [Adafruit](https://www.adafruit.com), [Jameco](http://www.jameco.com/), [Sparkfun](https://www.sparkfun.com/), [All Electronics](http://www.allelectronics.com/)
 
 OR
 
-2b. (5 minimum) [sewable LED's](https://www.adafruit.com/products/1758) Search for your desired colors. These are good for soft circuits only. 
+ *(5 minimum) [sewable LED's](https://www.adafruit.com/products/1758) Search for your desired colors. These are good for soft circuits only. 
 
 3. Batteries:
 
- CR2032 Lithium Coin Cell Batteries are good. 
+ *CR2032 Lithium Coin Cell Batteries are good. 
 
- Make sure you get a battery holder for it. [Example 1 - soft circuits](https://www.adafruit.com/products/653). [Example 2 - regular circuits](https://www.adafruit.com/products/783). [Example 3 - DIY soft circuits](http://www.kobakant.at/DIY/?p=5222). [Example 4 - DIY paper with conductive paint](http://www.bareconductive.com/make/paper-battery-holder-fold-holder/)
+ *Make sure you get a battery holder for it. [Example 1 - soft circuits](https://www.adafruit.com/products/653). [Example 2 - regular circuits](https://www.adafruit.com/products/783). [Example 3 - DIY soft circuits](http://www.kobakant.at/DIY/?p=5222). [Example 4 - DIY paper with conductive paint](http://www.bareconductive.com/make/paper-battery-holder-fold-holder/)
 
- AA Batteries
+ *AA Batteries
 
- [AA Battery holder](https://www.adafruit.com/products/770)
+ *[AA Battery holder](https://www.adafruit.com/products/770)
 
- 9 Volt Battery
+ *9 Volt Battery
 
- [9 Volt Battery snap](http://www.allelectronics.com/make-a-store/item/bst-3/9-volt-battery-snap-3-leads/1.html)
+ *[9 Volt Battery snap](http://www.allelectronics.com/make-a-store/item/bst-3/9-volt-battery-snap-3-leads/1.html)
 
 4. conductive materials 
 	- [conductive tape thick](https://www.adafruit.com/products/1127)
@@ -60,11 +64,16 @@ OR
 
 ######Week 1
 [Jee Young Lee](http://www.demilked.com/jee-young-lee-surreal-photography-studio-room/)
+
 [Christo & Jeanne-Claude](http://christojeanneclaude.net/)
 [Zimoun](http://www.zimoun.net/)
+
 [Brian Knep](http://www.blep.com/)
+
 [Red Paper Heart](http://www.redpaperheart.com/)
+
 [Nathaniel Stern](http://nathanielstern.com/)
+
 [Char Davies](http://www.immersence.com/)
 
 ######Week 2
