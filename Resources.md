@@ -6,6 +6,8 @@
 
 - [Great for forums, tutorials, documentation and everything for Max/MSP/Jitter](http://cycling74.com)
 
+- [Max TextBooks](https://cycling74.com/wiki/index.php?title=Max_Documentation_and_Resources) Please keep in mind that many of these deal with synthesis and signal processing. Read the reviews beforehand.
+
 - [Programming Interactivity by Joshua Noble – covers Processing, Arduino and hardware, amongst other things beyond the scope of this course that deal with making interactive art](http://www.amazon.com/Programming-Interactivity-Joshua-Noble/dp/144931144X/ref=sr_1_sc_1?ie=UTF8&qid=1453768057&sr=8-1-spell&keywords=programming+interactivty)
 
 - [Make Magazine](http://makezine.com/) - projects, articles, forums, store (shed)
@@ -48,7 +50,7 @@
 
  - 9 Volt Battery
 
- -[9 Volt Battery snap](http://www.allelectronics.com/make-a-store/item/bst-3/9-volt-battery-snap-3-leads/1.html)
+ - [9 Volt Battery snap](http://www.allelectronics.com/make-a-store/item/bst-3/9-volt-battery-snap-3-leads/1.html)
 
 4. **conductive materials**
 	- [conductive tape thick](https://www.adafruit.com/products/1127)
