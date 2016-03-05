@@ -22,6 +22,42 @@
 
 ###Weekly Workshops or Class Material
 
+####Must haves 
+
+1. [a bundle of aligator clip leads 12"](https://www.adafruit.com/products/1008) ++ is good. 
+
+2a. (5 minimum) LED's - T1 3/4, 5MM - What ever colors you want. See [Adafruit](https://www.adafruit.com), [Jameco](http://www.jameco.com/), [Sparkfun](https://www.sparkfun.com/), [All Electronics](http://www.allelectronics.com/)
+
+OR
+
+2b. (5 minimum) [sewable LED's](https://www.adafruit.com/products/1758) Search for your desired colors. These are good for soft circuits only. 
+
+3. Batteries:
+
+ CR2032 Lithium Coin Cell Batteries are good. 
+
+ Make sure you get a battery holder for it. [Example 1 - soft circuits](https://www.adafruit.com/products/653). [Example 2 - regular circuits](https://www.adafruit.com/products/783). [Example 3 - DIY soft circuits](http://www.kobakant.at/DIY/?p=5222). [Example 4 - DIY paper with conductive paint](http://www.bareconductive.com/make/paper-battery-holder-fold-holder/)
+
+ AA Batteries
+
+ [AA Battery holder](https://www.adafruit.com/products/770)
+
+ 9 Volt Battery
+
+ [9 Volt Battery snap](http://www.allelectronics.com/make-a-store/item/bst-3/9-volt-battery-snap-3-leads/1.html)
+
+4. conductive materials 
+	- [conductive tape thick](https://www.adafruit.com/products/1127)
+	- [conductive tape thin](https://www.adafruit.com/products/1127)
+	- [conductive thread](https://www.adafruit.com/products/641)
+	- [conductive fabric](https://www.adafruit.com/products/1168) Also comes in knit and jersey. Keep in mind that this is for connections + traces ONLY, not for making your objects!
+	- [conductive paint - NOT highly recommended](https://www.adafruit.com/products/1306)
+
+5. nonconductive materials - fabric (if you are sewing), cardboard, paper, things from the recycle bin, balloons, tubes, straws. Think cheap and around the house or dollar store
+
+6. connecting materials: non-conductive thread, hot glue, string, scissors, [sewing needle threader](http://www.amazon.com/SINGER-3-Count-Needle-Threaders/dp/B009D0O6LM/ref=sr_1_1?ie=UTF8&qid=1457135624&sr=8-1&keywords=needle+threader), sewing needles [ex](https://www.adafruit.com/products/1285), [beeswax keeps threads from fraying](http://www.amazon.com/Eurotool-Strengthening-Conditioner-Quilting-Crafting/dp/B004HMT12U/ref=sr_1_3?ie=UTF8&qid=1457135662&sr=8-3&keywords=sewing+wax)
+
+
 ######Week 1
 [Jee Young Lee](http://www.demilked.com/jee-young-lee-surreal-photography-studio-room/)
 [Christo & Jeanne-Claude](http://christojeanneclaude.net/)
