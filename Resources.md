@@ -91,6 +91,8 @@
 ######Week 6
 
 ######Week 7
+[Ohm's law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
+[LED Calculator](http://led.linear1.org/1led.wiz)
 
 ######Week 8
 
