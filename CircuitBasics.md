@@ -55,6 +55,7 @@ And we get:
 325 Ohms is a standard size, so we move to the next closest standard size of 330 ohms.
 
 [LED Calculator](http://led.linear1.org/1led.wiz)
+
 [LED Calculator for Series and Parallel Circuits](http://led.linear1.org/led.wiz)
 
 ### Series Circuit
