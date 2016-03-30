@@ -3,7 +3,7 @@
 ![Image of a simple circuit]
 (http://www.faqs.org/docs/electric/DC/00032.png)
 
-#####Electricity
+####Electricity
 
 Electricity is the movement of electrons. Electrons create a charge, which we can harness to do the work of turning things on and powering things.
 
@@ -19,11 +19,13 @@ Georgia Ohm, A Bavarian Scientist who stuided electricity, found that there is a
 
 Combining the above elements of voltage, current and resistance, he developed the formula below:
 
-## **V = I * R**
+					 		**V = I * R**
 
-* V = Voltage (volts)
-* I = Current (amps)
-* R = Resistance (ohms)
+						* V = Voltage (volts)
+						* I = Current (amps)
+						* R = Resistance (ohms)
+
+
 
 ### Okay that's great. But What Size Resistor Do I Need?
 
@@ -35,26 +37,29 @@ Remember, current is the same throughout your simple circuit. If we want a maxim
 
 Converting all the units to volts, amps and ohms, sot that 20MA should be written as 0.02 amps:
 
-V = 6.5 (the potential drop across the resistor)
-I = 0.02 (the current flowing through the resistor)
+		V = 6.5 (the potential drop across the resistor)
+		I = 0.02 (the current flowing through the resistor)
 
 We want to know R, the resistance. So, we use the version of Ohm’s Law that puts R on the left side:
 
-R = V/I
+		R = V/I
 
 Plug in our values:
 
-R = 6.5/0.02
+		R = 6.5/0.02
 
 And we get:
 
-325 Ohms
+		325 Ohms
 
 325 Ohms is a standard size, so we move to the next closest standard size of 330 ohms.
+
 
 
 #### Further Reading and Reference:
 
 **[SparkFun Tutorial on Electricity](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)**
+
 **[Tom Igoe site](http://www.tigoe.com/pcomp/code/circuits/understanding-electricity/)**
+
 **[All About Circuits](http://www.allaboutcircuits.com/textbook/direct-current/chpt-1/voltage-current/)**
