@@ -19,11 +19,11 @@ Georgia Ohm, A Bavarian Scientist who stuided electricity, found that there is a
 
 Combining the above elements of voltage, current and resistance, he developed the formula below:
 
-					 		**V = I * R**
+####**V = I * R**
 
-						* V = Voltage (volts)
-						* I = Current (amps)
-						* R = Resistance (ohms)
+* V = Voltage (volts)
+* I = Current (amps)
+* R = Resistance (ohms)
 
 
 
