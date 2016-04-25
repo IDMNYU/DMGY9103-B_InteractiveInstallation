@@ -37,14 +37,14 @@ And structure it like below. Note: That there should be new material in each wee
 		- documentation of your final installation, working and demonstrating interactivity + change over time. Portfolio quality (ie, edited and smooth)
 
 
-###Deliverables for the Prototype Due  4/28/2016
+###Deliverables for the Prototype Due  4/28/2016 10%
 <li>Links to influences and similar works – both conceptual and technical(dropbox folder)</li>
 <li>Initial working patches (dropbox folder)</li>
 <li>Acquisition of physical materials, circuits, etc </li>
 <li>Sketches, including initial comic book and subsequent sketches</li>
 
 
-###Deliverables for Prototype II Due 5/4/2016
+###Deliverables for Prototype II Due 5/4/2016  10%
 <li> Developed patches and circuits. FAR BEYOND BASIC LEVEL (additional folder in dropbox)</li>
 <li> Materials intergrated with digital elements AND working successfully on a basic level</li>
 <li> Sketches that explore the concept of interactivity, change over time, etc </li>
@@ -53,7 +53,7 @@ And structure it like below. Note: That there should be new material in each wee
 
 
 
-###Deliverables for the Final Project 
+###Deliverables for the Final Project 25%
 <ul>
 <li> Progressive development of your patches, (circuits), interactivity, space, concept ALL SHOWN WITHIN YOUR SPACE</li>
 <li>Refined concept in 3-6 sentences</li>
